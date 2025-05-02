@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "tamil": "வாழ்க்கை ஒரு பயணம்",
+    "english": "Life is a journey",
+    "category": "Motivational"
+  },
+  {
+    "id": 2,
+    "tamil": "உண்மை காதல் என்றும் அழிவதில்லை",
+    "english": "True love never dies",
+    "category": "Love"
+  },
+  {
+    "id": 3,
+    "tamil": "நண்பர்கள் வாழ்வின் செல்வம்",
+    "english": "Friends are the wealth of life",
+    "category": "Friendship"
+  },
+  {
+    "id": 4,
+    "tamil": "வாழ்க்கையில் தோல்வி சாதாரணம்",
+    "english": "Failure is normal in life",
+    "category": "Life"
+  }
+]
