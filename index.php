@@ -106,6 +106,7 @@
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
+            
             <div class="collapse navbar-collapse justify-content-between px-0 px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav mr-auto py-0">
                 <a href="index.php" class="nav-item nav-link active">Home</a>
@@ -176,7 +177,12 @@
 
 
                     
-                    <a href="contact.html" class="nav-item nav-link">Enquiry</a>
+<a href="chat.html" class="btn btn-primary" style="background: linear-gradient(to right, #28a745, #007bff); border: none; color: white; display: flex; align-items: center; gap: 8px;">
+  <i class="fas fa-comments"></i>
+  <i class="fas fa-exchange-alt"></i>
+  Chat - Buy/Sell
+</a>
+
 
                     
                 </div>
